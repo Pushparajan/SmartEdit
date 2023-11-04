@@ -1,0 +1,1167 @@
+{
+    "contentSlots": {
+        "contentSlot": [
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "Section1SlotHomepageCxContainer",
+                            "typeCode": "CxCmsComponentContainer",
+                            "modifiedTime": "2018-03-12T13:55:00.683-04:00",
+                            "name": "Section1SlotHomepageCxContainer",
+                            "container": "true",
+                            "sourceId": "Section1SlotHomepageCxContainer",
+                            "defaultCmsComponent": {
+                                "container": "false",
+                                "uid": "ElectronicsHompageSplashBannerComponent",
+                                "name": "Electronics Homepage Splash Banner Component",
+                                "media": {
+                                    "tablet": {
+                                        "code": "Elec_770x350_HomeSpeed_EN_01_770W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Save Big On Select SLR & DSLR Cameras",
+                                        "url": "/medias/Elec-770x350-HomeSpeed-EN-01-770W.jpg?context=bWFzdGVyfGltYWdlc3w1MzAzOHxpbWFnZS9qcGVnfGltYWdlcy9oYWEvaGRlLzg3OTcwMTEwMTc3NTguanBnfGM5ZWRmMWUwZTZjZTY1MzE1ZGE0M2MwYzU2NmJmZTkzMWJlMjlhYTVmZWRjYWY1Y2ZmM2ZhMjE4NWRjNjZhZTY"
+                                    },
+                                    "desktop": {
+                                        "code": "Elec_960x330_HomeSpeed_EN_01_960W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Save Big On Select SLR & DSLR Cameras",
+                                        "url": "/medias/Elec-960x330-HomeSpeed-EN-01-960W.jpg?context=bWFzdGVyfGltYWdlc3w1MzE2M3xpbWFnZS9qcGVnfGltYWdlcy9oYTMvaDRhLzg3OTcwMTExNDg4MzAuanBnfDgxY2UyZDIwODg1YjJiZWEzYWJlOGM2ODZkOGNmMDY5ZDc1MDcwMjg0M2RiNWQxNzZlYTY0NzIyYjZhZWJhZDQ"
+                                    },
+                                    "mobile": {
+                                        "code": "Elec_480x320_HomeSpeed_EN_01_480W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Save Big On Select SLR & DSLR Cameras",
+                                        "url": "/medias/Elec-480x320-HomeSpeed-EN-01-480W.jpg?context=bWFzdGVyfGltYWdlc3wzMzkzMnxpbWFnZS9qcGVnfGltYWdlcy9oZDYvaDYzLzg3OTcwMTA5NTIyMjIuanBnfDI4NjBkMzIzNmVhMDE1NmE0NGY2Y2JlN2ZjODJlMWZiOThiMThlMmQxZTBhMjI4ODVhNzcwNWU3N2JkNzkxYjI"
+                                    },
+                                    "widescreen": {
+                                        "code": "Elec_1400x440_HomeSpeed_EN_01_1400W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Save Big On Select SLR & DSLR Cameras",
+                                        "url": "/medias/Elec-1400x440-HomeSpeed-EN-01-1400W.jpg?context=bWFzdGVyfGltYWdlc3w4MTk4OHxpbWFnZS9qcGVnfGltYWdlcy9oYjUvaDIxLzg3OTcwMTA3NTU2MTQuanBnfDI4OTgzYjkxZGYyNjFlNTU4YjdlMDU1YzgzMjI4ZTg0NTEyODk5MDBiZGEzNzIzY2VkZTQxNGEwOTRhOWQxMDA"
+                                    }
+                                },
+                                "urlLink": "/OpenCatalogue/Cameras/Digital-Cameras/Digital-SLR/c/578",
+                                "typeCode": "SimpleResponsiveBannerComponent"
+                            },
+                            "currentCMSComponents": "ElectronicsHompageSplashBannerComponent"
+                        },
+                        {
+                            "uid": "ElectronicsHompageDiscountBannerComponent",
+                            "typeCode": "SimpleResponsiveBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.782-04:00",
+                            "name": "Electronics Homepage Discount Banner Component",
+                            "container": "false",
+                            "media": {
+                                "tablet": {
+                                    "code": "Elec_770x80_HomeDiscount_EN_01_770W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Save Big on Select Camera Accessories & Supplies",
+                                    "url": "/medias/Elec-770x80-HomeDiscount-EN-01-770W.jpg?context=bWFzdGVyfGltYWdlc3w5NTAwfGltYWdlL2pwZWd8aW1hZ2VzL2hiZS9oMDUvODc5NzAxMTA4MzI5NC5qcGd8Y2MxNGY4Y2QyZDZiM2QyZWEwZDc3NjhmMWZhY2Y0ZTVhODU0MzVhYWQ3NTdmMWI4NmQ1NzZlYmY4MzBlMGYyNg"
+                                },
+                                "desktop": {
+                                    "code": "Elec_960x80_HomeDiscount_EN_01_960W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Save Big on Select Camera Accessories & Supplies",
+                                    "url": "/medias/Elec-960x80-HomeDiscount-EN-01-960W.jpg?context=bWFzdGVyfGltYWdlc3wxMDQ2NnxpbWFnZS9qcGVnfGltYWdlcy9oMzMvaGRmLzg3OTcwMTEyMTQzNjYuanBnfDIxNjljODAxYzkyYmJlYmM4OTE3NjhkODEyNTQ4M2YwMmViOTg0ZjY3ZTljZDRmZDgxY2Y2NGVkODY5M2VmZGY"
+                                },
+                                "mobile": {
+                                    "code": "Elec_480x118_HomeDiscount_EN_01_480W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Save Big on Select Camera Accessories & Supplies",
+                                    "url": "/medias/Elec-480x118-HomeDiscount-EN-01-480W.jpg?context=bWFzdGVyfGltYWdlc3wxMDcxNXxpbWFnZS9qcGVnfGltYWdlcy9oNTYvaDI4Lzg3OTcwMTA4ODY2ODYuanBnfDc1ZjUyMWNiOTJkOWZmYWU5ZjdjOWNiMGM1NjViODBkMGFhMTUyYzUzNmE0MzI4OGQ0NDRlN2U2YzYxM2UwMmQ"
+                                },
+                                "widescreen": {
+                                    "code": "Elec_1400x80_HomeDiscount_EN_01_1400W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Save Big on Select Camera Accessories & Supplies",
+                                    "url": "/medias/Elec-1400x80-HomeDiscount-EN-01-1400W.jpg?context=bWFzdGVyfGltYWdlc3wxMTE0MnxpbWFnZS9qcGVnfGltYWdlcy9oOGUvaGY1Lzg3OTcwMTA4MjExNTAuanBnfGEzNmVjMzMxODViZTc5YzQ1ZmNkMWNlMmEzNGM2Y2I2ZDE1OWQ3Mjc1MGZjZmU0YmU0MzgxZmNkYTY3NzM2YmE"
+                                }
+                            },
+                            "urlLink": "/Open-Catalogue/Cameras/Camera-Accessories-%26-Supplies/c/585"
+                        }
+                    ]
+                },
+                "name": "Section1 Slot for Homepage",
+                "position": "Section1",
+                "slotId": "Section1Slot-Homepage",
+                "slotShared": false
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "Section2ASlotHomepageCxContainer",
+                            "typeCode": "CxCmsComponentContainer",
+                            "modifiedTime": "2018-03-12T13:55:00.78-04:00",
+                            "name": "Section2ASlotHomepageCxContainer",
+                            "container": "true",
+                            "sourceId": "Section2ASlotHomepageCxContainer",
+                            "defaultCmsComponent": {
+                                "container": "false",
+                                "uid": "ElectronicsHompageLightFamBannerComponent",
+                                "name": "Electronics Homepage Light Family Banner Component",
+                                "media": {
+                                    "tablet": {
+                                        "code": "Elec_200x150_HomeFam_EN_01_200W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Compact Cameras",
+                                        "url": "/medias/Elec-200x150-HomeFam-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3wxMDc3OXxpbWFnZS9qcGVnfGltYWdlcy9oMTQvaDhmLzg3OTcwMTEzNDU0MzguanBnfDBhMTJlN2Q0MzFkZDkzMDQ2NzM0NThlNjRiNTQzZDFhYjllZTI2MmVkYzgyNTViMGYyNTBkYTY0ZWQ5NmUxMWY"
+                                    },
+                                    "desktop": {
+                                        "code": "Elec_240x180_HomeFam_EN_01_240W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Compact Cameras",
+                                        "url": "/medias/Elec-240x180-HomeFam-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wxMjYzOHxpbWFnZS9qcGVnfGltYWdlcy9oZjIvaDA0Lzg3OTcwMTE0NzY1MTAuanBnfGQ0N2QwYTFhZjE2ODJlYTcyYWY5OWE1NWU1NzU3MmQ4NWVhM2EyZGYyOTc1ZTdkNmRjZjhlNDYyOTEwOTBiZDU"
+                                    },
+                                    "widescreen": {
+                                        "code": "Elec_350x262_HomeFam_EN_01_350W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Compact Cameras",
+                                        "url": "/medias/Elec-350x262-HomeFam-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wyMDg4M3xpbWFnZS9qcGVnfGltYWdlcy9oMzgvaGEyLzg3OTcwMTE2MDc1ODIuanBnfGM0NGM2NmU1MmI3NTlmOGFiNWQzOGVhZWJlOGI4ZjAwODg1ZDdkNDdkNDcxNWE1ZjZjNjU1Yzk3NmM3N2IwNTI"
+                                    }
+                                },
+                                "urlLink": "/Open-Catalogue/Cameras/DigitalCameras/Digital-Compacts/c/576",
+                                "typeCode": "SimpleResponsiveBannerComponent"
+                            },
+                            "currentCMSComponents": "ElectronicsHompageLightFamBannerComponent"
+                        },
+                        {
+                            "uid": "ElectronicsHompageLightFamTextBannerComponent",
+                            "typeCode": "SimpleResponsiveBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.805-04:00",
+                            "name": "Electronics Homepage Light Family Text Banner Component",
+                            "container": "false",
+                            "media": {
+                                "tablet": {
+                                    "code": "Elec_200x150_HomeFamLight_EN_01_200W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Camera Lenses",
+                                    "url": "/medias/Elec-200x150-HomeFamLight-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3w5NzIwfGltYWdlL2pwZWd8aW1hZ2VzL2gxNC9oNDcvODc5NzAxMTI3OTkwMi5qcGd8MTM2ZTlmOTk2MGNiMWI5NGVmZDg0OGIzNmFjN2M4ZmNlODRlOWFmZjkyZDM5N2ZlN2ViZTk1N2EzYzNjOThmNA"
+                                },
+                                "desktop": {
+                                    "code": "Elec_240x180_HomeFamLight_EN_01_240W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Camera Lenses",
+                                    "url": "/medias/Elec-240x180-HomeFamLight-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wxMTM0M3xpbWFnZS9qcGVnfGltYWdlcy9oYjQvaDEwLzg3OTcwMTE0MTA5NzQuanBnfDE4MGFiMmI1MjBjYWUzYzQ2MGQ4YzM5Y2UyNTNiY2VjODAzOGVkNGEwMjZjNjExN2VmNWI1Y2I0MmZlOWFmMjY"
+                                },
+                                "widescreen": {
+                                    "code": "Elec_350x262_HomeFamLight_EN_01_350W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Camera Lenses",
+                                    "url": "/medias/Elec-350x262-HomeFamLight-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wxNzgzMHxpbWFnZS9qcGVnfGltYWdlcy9oMzYvaGQxLzg3OTcwMTE1NDIwNDYuanBnfDNmMzJhODI0OTFlZWY2ZTQzMGMzZDljNWNmMTQ5ZDA5M2M4YWJkYTE2ZWM1OGJhZmYwOWNlNWI5ZmJkYTNhYmU"
+                                }
+                            },
+                            "urlLink": "/Open-Catalogue/Cameras/CameraAccessories-%26-Supplies/CameraLenses/c/588"
+                        }
+                    ]
+                },
+                "name": "Section2A Slot for Homepage",
+                "position": "Section2A",
+                "slotId": "Section2ASlot-Homepage",
+                "slotShared": false
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "Section2BSlotHomepageCxContainer",
+                            "typeCode": "CxCmsComponentContainer",
+                            "modifiedTime": "2018-03-12T13:55:00.71-04:00",
+                            "name": "Section2BSlotHomepageCxContainer",
+                            "container": "true",
+                            "sourceId": "Section2BSlotHomepageCxContainer",
+                            "defaultCmsComponent": {
+                                "container": "false",
+                                "uid": "ElectronicsHompageCamcordersBannerComponent",
+                                "name": "Electronics Homepage Camcorders Banner Component",
+                                "media": {
+                                    "tablet": {
+                                        "code": "Elec_200x150_HomeKid_EN_01_200W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Power Supplies",
+                                        "url": "/medias/Elec-200x150-HomeKid-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3wxMDc5NXxpbWFnZS9qcGVnfGltYWdlcy9oMGYvaGNjLzg3OTcwMTE3Mzg2NTQuanBnfGIyYWYwMDVlMzM2NThkMmRhM2VkODkyYjIzZjg3MDAyMThmNTg1NmFmYTk1NjNmYzExNTk3NjY0NzMxYTVjZTU"
+                                    },
+                                    "desktop": {
+                                        "code": "Elec_240x180_HomeKid_EN_01_240W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Power Supplies",
+                                        "url": "/medias/Elec-240x180-HomeKid-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wxMjYxOHxpbWFnZS9qcGVnfGltYWdlcy9oNTgvaDNhLzg3OTcwMTE4Njk3MjYuanBnfDRkZmM5ZWUyYmIyOWFjODhiODg3MmZiNjg0ZjY3YjcwNmZhMjliYWY3YmRhYTZiNzIxNTVlNGRhNTY1OWM0ZjY"
+                                    },
+                                    "widescreen": {
+                                        "code": "Elec_350x262_HomeKid_EN_01_350W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Power Supplies",
+                                        "url": "/medias/Elec-350x262-HomeKid-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wxOTgzM3xpbWFnZS9qcGVnfGltYWdlcy9oMTMvaDdlLzg3OTcwMTIwMDA3OTguanBnfDI1MmJmZmY0ZTk5MDQ5NWQ5ZWFiODIyZTE2MzdkZWY0N2JlZTVhOWJhZmI3Nzc5YzU5OTA0Y2FmZjg4YmFhMjI"
+                                    }
+                                },
+                                "urlLink": "/Open-Catalogue/Components/PowerSupplies/c/816",
+                                "typeCode": "SimpleResponsiveBannerComponent"
+                            },
+                            "currentCMSComponents": "ElectronicsHompageCamcordersBannerComponent"
+                        },
+                        {
+                            "uid": "ElectronicsHompageCamcordersChildBannerComponent",
+                            "typeCode": "SimpleResponsiveBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.821-04:00",
+                            "name": "Electronics Homepage Light Family Banner Component Child",
+                            "container": "false",
+                            "media": {
+                                "tablet": {
+                                    "code": "Elec_200x150_HomeCaptureFirst_EN_01_200W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Camcorders",
+                                    "url": "/medias/Elec-200x150-HomeCaptureFirst-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3wxMDgxMnxpbWFnZS9qcGVnfGltYWdlcy9oN2YvaDNmLzg3OTcwMTE2NzMxMTguanBnfDQzNDhiMTdhNWFmMTY4YTNiOGQxMTY5YWFiNDViOWY4Mzg0YjY3ZmUwMzRiYmE2M2ExYmFkZGM4YWNlOGU3ZDE"
+                                },
+                                "desktop": {
+                                    "code": "Elec_240x180_HomeCaptureFirst_EN_01_240W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Camcorders",
+                                    "url": "/medias/Elec-240x180-HomeCaptureFirst-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wxMzczNXxpbWFnZS9qcGVnfGltYWdlcy9oMTYvaDYwLzg3OTcwMTE4MDQxOTAuanBnfDJlNmIzNjhkNTFhZDQ5NGUxMWQyYzZlZmFjOWFmYjlhMTk5NDJiNDNiOWFiMTlhNTAzZmViODVkYzk0OTE4NGQ"
+                                },
+                                "widescreen": {
+                                    "code": "Elec_350x262_HomeCaptureFirst_EN_01_350W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Camcorders",
+                                    "url": "/medias/Elec-350x262-HomeCaptureFirst-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wyMzAwOHxpbWFnZS9qcGVnfGltYWdlcy9oY2UvaGYxLzg3OTcwMTE5MzUyNjIuanBnfDE3MTAwNGIxMDgyMGMyYjk5MjYyYWNkMGFiZjc3OTM2MDA5MGFlMzk5MzUzNGJjYjE0MTNjYmU4YjhmYThlNjg"
+                                }
+                            },
+                            "urlLink": "/Open-Catalogue/Cameras/Hand-held-Camcorders/c/584"
+                        }
+                    ]
+                },
+                "name": "Section2B Slot for Homepage",
+                "position": "Section2B",
+                "slotId": "Section2BSlot-Homepage",
+                "slotShared": false
+            },
+            {
+                "components": {
+                    "component": []
+                },
+                "name": "Section2C Slot for Homepage",
+                "position": "Section2C",
+                "slotId": "Section2CSlot-Homepage",
+                "slotShared": false
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "ElectronicsHomepageProductCarouselComponent",
+                            "typeCode": "ProductCarouselComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.748-04:00",
+                            "name": "Electronics Homepage Product Carousel",
+                            "container": "false",
+                            "popup": "false",
+                            "scroll": "ALLVISIBLE",
+                            "productCodes": "300938 358639 553637 816802 1934793 1382080 1981415 816780 1934406 1986316 592506",
+                            "title": "Our Bestselling Products"
+                        },
+                        {
+                            "uid": "NewElectronicsHomepageProductCarouselComponent",
+                            "typeCode": "ProductCarouselComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.739-04:00",
+                            "name": "What's New Electronics Homepage Product Carousel",
+                            "container": "false",
+                            "popup": "false",
+                            "scroll": "ALLVISIBLE",
+                            "productCodes": "1776948 1934796 1981415 1992693 2278102 1641905 932577",
+                            "title": "What's New"
+                        }
+                    ]
+                },
+                "name": "Section3 Slot for Homepage",
+                "position": "Section3",
+                "slotId": "Section3Slot-Homepage",
+                "slotShared": false
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "Section4SlotHomepageCxContainer",
+                            "typeCode": "CxCmsComponentContainer",
+                            "modifiedTime": "2018-03-12T13:55:00.754-04:00",
+                            "name": "Section4SlotHomepageCxContainer",
+                            "container": "true",
+                            "sourceId": "Section4SlotHomepageCxContainer",
+                            "defaultCmsComponent": {
+                                "container": "false",
+                                "uid": "ElectronicsHompageShipmentBannerComponent",
+                                "name": "Electronics Homepage Shipment Banner Component",
+                                "media": {
+                                    "tablet": {
+                                        "code": "Elec_200x200_HomeShipment_EN_01_200W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Samsung NV10 Compact Camera",
+                                        "url": "/medias/Elec-200x200-HomeShipment-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3w3MDkwfGltYWdlL2pwZWd8aW1hZ2VzL2hmMy9oMTUvODc5NzAxMjEzMTg3MC5qcGd8MGIwNTg1ZGM1NjI3MTQxZDI1NjI2NjgwZTMwZTIxYTk3N2E5YTg5YTIzZWQ3ZmM4ZDhiZTA4YWZmYjE5ZWM3MA"
+                                    },
+                                    "desktop": {
+                                        "code": "Elec_240x240_HomeShipment_EN_01_240W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Samsung NV10 Compact Camera",
+                                        "url": "/medias/Elec-240x240-HomeShipment-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w4NDY4fGltYWdlL2pwZWd8aW1hZ2VzL2hkNy9oMTgvODc5NzAxMjM5NDAxNC5qcGd8MTk1NDJkOTk3N2MyNjI1MmVjNjRkNjNhMzdhNjZkODc4NDY2NjM0MjRhYzE2Yjk3OWY0OGYyZWU5ODY0YjVhZA"
+                                    },
+                                    "widescreen": {
+                                        "code": "Elec_350x350_HomeShipment_EN_01_350W.jpg",
+                                        "mime": "image/jpeg",
+                                        "altText": "Samsung NV10 Compact Camera",
+                                        "url": "/medias/Elec-350x350-HomeShipment-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wxMzgyOHxpbWFnZS9qcGVnfGltYWdlcy9oZDkvaGU5Lzg3OTcwMTI2NTYxNTguanBnfDAxOTBlYjEyYzljOTgzZDQ0YjRkZGI3ZDc4YmQ2MGE1YTlmZDM3ZGM3MmIyYzcxNWJmODA4OTFhMDA1YzE5YWQ"
+                                    }
+                                },
+                                "urlLink": "/Open-Catalogue/Cameras/DigitalCameras/Digital-Compacts/NV10/p/553637",
+                                "typeCode": "SimpleResponsiveBannerComponent"
+                            },
+                            "currentCMSComponents": "ElectronicsHompageShipmentBannerComponent"
+                        },
+                        {
+                            "uid": "ElectronicsHompageShopBannerComponent",
+                            "typeCode": "SimpleResponsiveBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.858-04:00",
+                            "name": "Electronics Homepage Shop Banner Component",
+                            "container": "false",
+                            "media": {
+                                "tablet": {
+                                    "code": "Elec_200x200_HomeShop_EN_01_200W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Logitech QuickCam for Notebook Pro",
+                                    "url": "/medias/Elec-200x200-HomeShop-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3w2NjQzfGltYWdlL2pwZWd8aW1hZ2VzL2g0YS9oMjkvODc5NzAxMjE5NzQwNi5qcGd8NzE4YmU2Yjc3YTk2NGU3ODU0MmJhZDg5NWE5NjA2ODE4YzViNWYwNGYyMjUxOWE4YTVmMzM2NzQ5Mjg1YzYxYQ"
+                                },
+                                "desktop": {
+                                    "code": "Elec_240x240_HomeShop_EN_01_240W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Logitech QuickCam for Notebook Pro",
+                                    "url": "/medias/Elec-240x240-HomeShop-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w4MDA0fGltYWdlL2pwZWd8aW1hZ2VzL2g2OC9oYTUvODc5NzAxMjQ1OTU1MC5qcGd8OTUzNDM3OTg0NzJiYTdiYzY1NjM5NTRmOTEyNWU2ZWQ0YjI3ODFiMTM5NTMwNjYxM2EwMDM3NDAwNTMwOGRlMw"
+                                },
+                                "widescreen": {
+                                    "code": "Elec_350x350_HomeShop_EN_01_350W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Logitech QuickCam for Notebook Pro",
+                                    "url": "/medias/Elec-350x350-HomeShop-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wxMjgxMXxpbWFnZS9qcGVnfGltYWdlcy9oNzgvaDZiLzg3OTcwMTI3MjE2OTQuanBnfGVlZDU0YjNiMmEwNzM2NmFmZGM0MmU4Njc2MzBhODAwMTcwOWI2YjAyM2MwNWIyMDcxMTQ3ZWMzNTk1MzZhNjg"
+                                }
+                            },
+                            "urlLink": "/Open-Catalogue/Cameras/Webcams/QuickCam-for-Notebooks-Pro/p/479742"
+                        },
+                        {
+                            "uid": "ElectronicsHompageSmDiscountBannerComponent",
+                            "typeCode": "SimpleResponsiveBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.851-04:00",
+                            "name": "Electronics Homepage Small Discount Banner Component",
+                            "container": "false",
+                            "media": {
+                                "tablet": {
+                                    "code": "Elec_200x200_HomeSmallDiscount_EN_01_200W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Canyon Web Camera 100KpxelIM CMOS",
+                                    "url": "/medias/Elec-200x200-HomeSmallDiscount-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3w3MTgzfGltYWdlL2pwZWd8aW1hZ2VzL2hhYi9oYTcvODc5NzAxMjI2Mjk0Mi5qcGd8MWQwMjhiYTk5ZTM1YzM4OTIzZmZlYTczYTllYTZjMGVjYWRhOTU1YTM4NDEzNjg0ZTc5NmNlYWE3OTk4YTUwNQ"
+                                },
+                                "desktop": {
+                                    "code": "Elec_240x240_HomeSmallDiscount_EN_01_240W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Canyon Web Camera 100KpxelIM CMOS",
+                                    "url": "/medias/Elec-240x240-HomeSmallDiscount-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w4NTY0fGltYWdlL2pwZWd8aW1hZ2VzL2g2ZS9oODQvODc5NzAxMjUyNTA4Ni5qcGd8N2Y4MDA4MDg4MzljMzIyMTdlMDA1MTZiZDQ4NmQ4ZDFkZWY3MzIwMTIxOTc3ODU3YjQwMTY3YTUxZWZhOWJhZA"
+                                },
+                                "widescreen": {
+                                    "code": "Elec_350x350_HomeSmallDiscount_EN_01_350W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Canyon Web Camera 100KpxelIM CMOS",
+                                    "url": "/medias/Elec-350x350-HomeSmallDiscount-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wxMzQ0MXxpbWFnZS9qcGVnfGltYWdlcy9oZDIvaDU1Lzg3OTcwMTI3ODcyMzAuanBnfGQxYzcxOGJkOTZkMzFiZDAxZDNmMTg0NDYwNTYwODE3Y2IzODk2N2Q1OGU5NGFkZjk3MjUzMWQxZGFkMmQzZDY"
+                                }
+                            },
+                            "urlLink": "/Open-Catalogue/Cameras/Webcams/Web-Camera-%28100KpixelM-CMOS%2C-640X480%2C-USB-1-1%29-Black/p/280916"
+                        },
+                        {
+                            "uid": "ElectronicsHompageServiceBannerComponent",
+                            "typeCode": "SimpleResponsiveBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.873-04:00",
+                            "name": "Electronics Homepage Service Banner Component",
+                            "container": "false",
+                            "media": {
+                                "tablet": {
+                                    "code": "Elec_200x200_HomeService_EN_01_200W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Sony Light HVL-20DW2",
+                                    "url": "/medias/Elec-200x200-HomeService-EN-01-200W.jpg?context=bWFzdGVyfGltYWdlc3w1OTk4fGltYWdlL2pwZWd8aW1hZ2VzL2g2ZC9oNjgvODc5NzAxMjA2NjMzNC5qcGd8NjMzNmYyZDVhM2NhOGEwODczNDhjZDEzYWNkYzhlM2UxNTkwZWNlMGM3MzVmYzdlMTI1MTY3ZGRmMDc5ZjZjMQ"
+                                },
+                                "desktop": {
+                                    "code": "Elec_240x240_HomeService_EN_01_240W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Sony Light HVL-20DW2",
+                                    "url": "/medias/Elec-240x240-HomeService-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w3Mjg5fGltYWdlL2pwZWd8aW1hZ2VzL2g5MC9oYzYvODc5NzAxMjMyODQ3OC5qcGd8ODg2YTRjMDRiMmFhMTcyNTJjMTk3MDY5YWRmNTY2NjJkZjFjZGJjYjNmODg3MDQ0MGM3YjZlM2NhNzQ5Nzc1Yg"
+                                },
+                                "widescreen": {
+                                    "code": "Elec_350x350_HomeService_EN_01_350W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Sony Light HVL-20DW2",
+                                    "url": "/medias/Elec-350x350-HomeService-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wxMTU4MHxpbWFnZS9qcGVnfGltYWdlcy9oNDAvaGY3Lzg3OTcwMTI1OTA2MjIuanBnfGM1MjUxMmI0ODQ3ZWQ1OTZkZmI1ZDc3NDQwNWQ3YTg3Mzc5OWJiZmI2YTU0YWIxNWE4NGI3M2I0OTU1MDQyYmQ"
+                                }
+                            },
+                            "urlLink": "/Open-Catalogue/Cameras/CameraAccessories-%26-Supplies/CameraFlashes/Light-HVL-20DW2/p/289540"
+                        }
+                    ]
+                },
+                "name": "Section4 Slot for Homepage",
+                "position": "Section4",
+                "slotId": "Section4Slot-Homepage",
+                "slotShared": false
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "ElectronicsHompageFreeDelBannerComponent",
+                            "typeCode": "SimpleResponsiveBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:15.904-04:00",
+                            "name": "Electronics Homepage Free Delivery Banner Component",
+                            "container": "false",
+                            "media": {
+                                "tablet": {
+                                    "code": "Elec_770x50_HomeFreeDel_EN_01_770W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Free Shipping on All Orders This Weekend",
+                                    "url": "/medias/Elec-770x50-HomeFreeDel-EN-01-770W.jpg?context=bWFzdGVyfGltYWdlc3w4NzM5fGltYWdlL2pwZWd8aW1hZ2VzL2hmNi9oYjcvODc5NzAxMjk4MzgzOC5qcGd8MjlhMGQyY2NkNWRjN2Y0NDJmMzA3NWNhYzU0NGI3MWQwZTE4MjFlMWY1MjRjYTQ4MWM3YjY0NmQ0MTljYzEwMg"
+                                },
+                                "desktop": {
+                                    "code": "Elec_960x50_HomFreeDel_EN_01_960W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Free Shipping on All Orders This Weekend",
+                                    "url": "/medias/Elec-960x50-HomFreeDel-EN-01-960W.jpg?context=bWFzdGVyfGltYWdlc3w4ODc5fGltYWdlL2pwZWd8aW1hZ2VzL2gzOC9oZWQvODc5NzAxMzA0OTM3NC5qcGd8NDI5MjI4YmQzNTQ1MDg4Y2RiZTc2MjYxMWJjMjQ1ODNlNWY5OTAyMzc0MjQzMmVlNjE5ZTM2MGU5N2E2YTBjOA"
+                                },
+                                "mobile": {
+                                    "code": "Elec_475x119_HomeFreeDel_EN_01_475W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Free Shipping on All Orders This Weekend",
+                                    "url": "/medias/Elec-475x119-HomeFreeDel-EN-01-475W.jpg?context=bWFzdGVyfGltYWdlc3w5MjUwfGltYWdlL2pwZWd8aW1hZ2VzL2gxZi9oOGYvODc5NzAxMjkxODMwMi5qcGd8NTc5OTgxYjFlZGM3ZDI4MmY2ZjcyZmIwNGVjNjdjYWY3MDgyNDY1NmQ5M2JmNmFlY2VjYmUzZjFhNmY1NmJjZQ"
+                                },
+                                "widescreen": {
+                                    "code": "Elec_1400x50_HomeFreeDel_EN_01_1400W.jpg",
+                                    "mime": "image/jpeg",
+                                    "altText": "Free Shipping on All Orders This Weekend",
+                                    "url": "/medias/Elec-1400x50-HomeFreeDel-EN-01-1400W.jpg?context=bWFzdGVyfGltYWdlc3wxMDAwNXxpbWFnZS9qcGVnfGltYWdlcy9oM2UvaDI2Lzg3OTcwMTI4NTI3NjYuanBnfDMyMDZlMjRkNmFjMDA3NWRhMjU5ZTAzMjJlYmMxNjQzNjBmYjNiNGEzMmMxZGNjMTA1MTU1YmY2MDE3MDM4ZWE"
+                                }
+                            },
+                            "urlLink": "/faq"
+                        }
+                    ]
+                },
+                "name": "Section5 Slot for Homepage",
+                "position": "Section5",
+                "slotId": "Section5Slot-Homepage",
+                "slotShared": false
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "SiteLogoComponent",
+                            "typeCode": "SimpleBannerComponent",
+                            "modifiedTime": "2018-03-12T13:01:12.987-04:00",
+                            "name": "Site Logo Component",
+                            "container": "false",
+                            "external": "false",
+                            "media": {
+                                "code": "/images/theme/logo_hybris_responsive.svg",
+                                "mime": "image/svg+xml",
+                                "altText": "hybris Accelerator",
+                                "url": "/medias/logo-hybris-responsive.svg?context=bWFzdGVyfGltYWdlc3w1Mzc5fGltYWdlL3N2Zyt4bWx8aW1hZ2VzL2gwYS9oNjgvODc5NzAwODc1Njc2Ni5zdmd8MjBjOTM3YWEyOGQ1NTg3MjU3OWJjNWQyZjJhZWEyYjE5MTA3Nzg4ZTRlYjJlZDFlM2ExZGMzMDJlYjhjMWI2Nw"
+                            },
+                            "urlLink": "/"
+                        }
+                    ]
+                },
+                "name": "Default Site Logo Slot",
+                "position": "SiteLogo",
+                "slotId": "SiteLogoSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "HomepageNavLink",
+                            "typeCode": "CMSLinkComponent",
+                            "modifiedTime": "2018-03-12T13:01:14.066-04:00",
+                            "name": "Home Page Nav Link",
+                            "container": "false",
+                            "external": "false",
+                            "contentPage": "homepage",
+                            "contentPageLabelOrId": "homepage",
+                            "linkName": "Home",
+                            "url": "/",
+                            "target": "false"
+                        }
+                    ]
+                },
+                "name": "Default Homepage Link",
+                "position": "HomepageNavLink",
+                "slotId": "HomepageNavLinkSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "ElectronicsCategoryNavComponent",
+                            "typeCode": "CategoryNavigationComponent",
+                            "modifiedTime": "2018-03-12T13:01:13.604-04:00",
+                            "name": "Category Navigation Component",
+                            "container": "false",
+                            "wrapAfter": "10",
+                            "navigationNode": {
+                                "uid": "ElectronicsCategoryNavNode",
+                                "entries": [],
+                                "children": [
+                                    {
+                                        "uid": "BrandsNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "AllBrandsCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [
+                                            {
+                                                "uid": "BrandLinksNavNode",
+                                                "entries": [],
+                                                "children": [
+                                                    {
+                                                        "uid": "CanonBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "CanonBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "SonyBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "SonyBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "KodakBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "KodakBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "SamsungBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "SamsungBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "ToshibaBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "ToshibaBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "FujifilmBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "FujifilmBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    }
+                                                ],
+                                                "title": "Cameras"
+                                            },
+                                            {
+                                                "uid": "AccessoryBrandLinksNavNode",
+                                                "entries": [],
+                                                "children": [
+                                                    {
+                                                        "uid": "KingstonBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "KingstonBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "IciduBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "IciduBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "TDKBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "TDKBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "SweexBrandNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "SweexBrandCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    }
+                                                ],
+                                                "title": "Accessories"
+                                            }
+                                        ],
+                                        "title": "Brands"
+                                    },
+                                    {
+                                        "uid": "DigitalCamerasNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "DigitalCamerasCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [
+                                            {
+                                                "uid": "DigitalCompactsNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "DigitalCompactsCategoryLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            },
+                                            {
+                                                "uid": "DigitalSLRNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "DigitalSLRCategoryLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            }
+                                        ],
+                                        "title": "Digital Cameras"
+                                    },
+                                    {
+                                        "uid": "FilmCamerasNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "FilmCamerasCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [],
+                                        "title": "Film Cameras"
+                                    },
+                                    {
+                                        "uid": "HandheldCamcordersNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "HandheldCamcordersCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [],
+                                        "title": "Hand Held Camcorders"
+                                    },
+                                    {
+                                        "uid": "WebcamsNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "WebcamsCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [],
+                                        "title": "Webcams"
+                                    },
+                                    {
+                                        "uid": "PowerSuppliesNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "PowerSuppliesCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [],
+                                        "title": "Power Supplies"
+                                    },
+                                    {
+                                        "uid": "FlashMemoryNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "FlashMemoryCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [],
+                                        "title": "Flash Memory"
+                                    },
+                                    {
+                                        "uid": "CameraAccessoriesNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "CameraAccessoriesCategoryLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": [
+                                            {
+                                                "uid": "AccessoriesNavNode",
+                                                "entries": [],
+                                                "children": [
+                                                    {
+                                                        "uid": "CamerasFlashesNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "CamerasFlashesCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "TripodsNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "TripodsCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "CameraLensesNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "CameraLensesCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    }
+                                                ],
+                                                "title": "Accessories"
+                                            },
+                                            {
+                                                "uid": "SuppliesNavNode",
+                                                "entries": [],
+                                                "children": [
+                                                    {
+                                                        "uid": "ColourFilmsNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "ColourFilmsCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "BlackAndWhiteFilmsNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "BlackAndWhiteFilmsCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    },
+                                                    {
+                                                        "uid": "BlankVideotapesNavNode",
+                                                        "entries": [
+                                                            {
+                                                                "itemId": "BlankVideotapesCategoryLink",
+                                                                "itemSuperType": "AbstractCMSComponent",
+                                                                "itemType": "CMSLinkComponent"
+                                                            }
+                                                        ],
+                                                        "children": []
+                                                    }
+                                                ],
+                                                "title": "Supplies"
+                                            }
+                                        ],
+                                        "title": "Camera Accessories & Supplies"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "uid": "breadcrumbComponent",
+                            "typeCode": "BreadcrumbComponent",
+                            "modifiedTime": "2018-03-12T13:01:13.612-04:00",
+                            "name": "Breadcrumb CMS Component",
+                            "container": "false"
+                        }
+                    ]
+                },
+                "name": "Navigation Bar",
+                "position": "NavigationBar",
+                "slotId": "NavigationBarSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "OrderComponent",
+                            "typeCode": "NavigationComponent",
+                            "modifiedTime": "2018-03-12T13:01:13.577-04:00",
+                            "name": "Order Component",
+                            "container": "false",
+                            "styleClass": "nav-order-tools",
+                            "navigationNode": {
+                                "uid": "OrderNavNode",
+                                "entries": [],
+                                "children": [
+                                    {
+                                        "uid": "QuickOrderNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "QuickOrderLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": []
+                                    },
+                                    {
+                                        "uid": "ImportSavedCartNavNode",
+                                        "entries": [
+                                            {
+                                                "itemId": "ImportSavedCartLink",
+                                                "itemSuperType": "AbstractCMSComponent",
+                                                "itemType": "CMSLinkComponent"
+                                            }
+                                        ],
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "uid": "MiniCart",
+                            "typeCode": "MiniCartComponent",
+                            "modifiedTime": "2018-03-12T13:01:24.966-04:00",
+                            "name": "迷你购物车",
+                            "shownProductCount": "3",
+                            "container": "false",
+                            "totalDisplay": "SUBTOTAL",
+                            "lightboxBannerComponent": {
+                                "container": "false",
+                                "uid": "LightboxHomeDeliveryBannerComponent",
+                                "external": "false",
+                                "name": "Lightbox Home Delivery Banner Component",
+                                "media": {
+                                    "code": "Elec_358x45_HomeDeliveryBanner_EN_01.gif",
+                                    "mime": "image/gif",
+                                    "altText": "Order before 6pm for next day delivery",
+                                    "url": "/medias/?context=bWFzdGVyfGltYWdlc3w0MTA5fGltYWdlL2dpZnxpbWFnZXMvaGM2L2g3My84Nzk3MDA5MjQ4Mjg2LmdpZnw1ZWQwMDE5MWM5OTk0OGFmZWM2NmRjNzZiNTUzMTI3NzJjM2IxNDYzM2MzMGYyMjY0MmUzODczN2E3MDg3YzE3"
+                                },
+                                "typeCode": "SimpleBannerComponent"
+                            },
+                            "title": "YOUR SHOPPING CART"
+                        }
+                    ]
+                },
+                "name": "Mini Cart",
+                "position": "MiniCart",
+                "slotId": "MiniCartSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "FooterNavigationComponent",
+                            "typeCode": "FooterNavigationComponent",
+                            "modifiedTime": "2018-03-12T13:01:13.713-04:00",
+                            "name": "Footer Navigation Component",
+                            "container": "false",
+                            "showLanguageCurrency": "true",
+                            "wrapAfter": "4",
+                            "notice": "© 2016 hybris software",
+                            "navigationNode": {
+                                "uid": "FooterNavNode",
+                                "entries": [],
+                                "children": [
+                                    {
+                                        "uid": "AcceleratorNavNode",
+                                        "entries": [],
+                                        "children": [
+                                            {
+                                                "uid": "AboutAcceleratorNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "AboutAcceleratorLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            },
+                                            {
+                                                "uid": "FAQNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "FAQLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            }
+                                        ],
+                                        "title": "Accelerator"
+                                    },
+                                    {
+                                        "uid": "HybrisNavNode",
+                                        "entries": [],
+                                        "children": [
+                                            {
+                                                "uid": "AboutHybrisNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "AboutHybrisLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            },
+                                            {
+                                                "uid": "ContactUsNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "ContactUsLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            }
+                                        ],
+                                        "title": "Hybris"
+                                    },
+                                    {
+                                        "uid": "FollowUsNavNode",
+                                        "entries": [],
+                                        "children": [
+                                            {
+                                                "uid": "AgileCommerceBlogNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "AgileCommerceBlogLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            },
+                                            {
+                                                "uid": "LinkedInNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "LinkedInLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            },
+                                            {
+                                                "uid": "FacebookNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "FacebookLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            },
+                                            {
+                                                "uid": "TwitterNavNode",
+                                                "entries": [
+                                                    {
+                                                        "itemId": "TwitterLink",
+                                                        "itemSuperType": "AbstractCMSComponent",
+                                                        "itemType": "CMSLinkComponent"
+                                                    }
+                                                ],
+                                                "children": []
+                                            }
+                                        ],
+                                        "title": "Follow Us"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                },
+                "name": "Footer",
+                "position": "Footer",
+                "slotId": "FooterSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": []
+                },
+                "name": "Header links",
+                "position": "HeaderLinks",
+                "slotId": "HeaderLinksSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "SearchBox",
+                            "typeCode": "SearchBoxComponent",
+                            "modifiedTime": "2018-03-12T13:01:13.749-04:00",
+                            "name": "Search Box",
+                            "container": "false",
+                            "maxSuggestions": "6",
+                            "maxProducts": "4",
+                            "displaySuggestions": "true",
+                            "displayProducts": "true",
+                            "displayProductImages": "true",
+                            "waitTimeBeforeRequest": "500",
+                            "minCharactersBeforeRequest": "3"
+                        }
+                    ]
+                },
+                "name": "Search Box",
+                "position": "SearchBox",
+                "slotId": "SearchBoxSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "CookieNotificationComponent",
+                            "typeCode": "JspIncludeComponent",
+                            "modifiedTime": "2018-03-12T13:01:13.985-04:00",
+                            "name": "Cookie Notification Component",
+                            "container": "false",
+                            "page": "/WEB-INF/views/responsive/pages/consent/cookienotification.jsp"
+                        },
+                        {
+                            "uid": "AnonymousConsentManagementComponent",
+                            "typeCode": "JspIncludeComponent",
+                            "modifiedTime": "2018-03-12T13:01:13.992-04:00",
+                            "name": "Anonymous Consent Management Component",
+                            "container": "false",
+                            "page": "/WEB-INF/views/responsive/pages/consent/consentmanagement.jsp"
+                        },
+                        {
+                            "uid": "AssistedServiceComponent",
+                            "typeCode": "AssistedServiceComponent",
+                            "modifiedTime": "2018-03-12T13:51:58.054-04:00",
+                            "name": "Assisted Service Component",
+                            "container": "false"
+                        }
+                    ]
+                },
+                "name": "Top Header",
+                "position": "TopHeaderSlot",
+                "slotId": "TopHeaderSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": []
+                },
+                "name": "Bottom Header",
+                "position": "BottomHeaderSlot",
+                "slotId": "BottomHeaderSlot",
+                "slotShared": true
+            },
+            {
+                "components": {
+                    "component": [
+                        {
+                            "uid": "ProfileTagScriptComponent",
+                            "typeCode": "ProfileTagScriptComponent",
+                            "modifiedTime": "2018-03-12T13:41:04.579-04:00",
+                            "name": "Profile Tag",
+                            "container": "false"
+                        },
+                        {
+                            "uid": "HybrisAnalyticsTagScriptComponent",
+                            "typeCode": "HybrisAnalyticsTagScriptComponent",
+                            "modifiedTime": "2018-03-12T13:50:27.001-04:00",
+                            "name": "Hybris analytics tag file",
+                            "container": "false"
+                        }
+                    ]
+                },
+                "name": "Placeholder for Addon tag files",
+                "position": "PlaceholderContentSlot",
+                "slotId": "PlaceholderContentSlot",
+                "slotShared": true
+            }
+        ]
+    },
+    "name": "Homepage",
+    "template": "LandingPage2Template",
+    "title": "Homepage",
+    "typeCode": "ContentPage",
+    "uid": "homepage"
+}
