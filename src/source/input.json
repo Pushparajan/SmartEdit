@@ -1159,9 +1159,9 @@
             }
         ]
     },
-    "name": "Homepage",
+    "name": "Homepage-FromHybris",
     "template": "LandingPage2Template",
-    "title": "Homepage",
+    "title": "Homepage From Hybris",
     "typeCode": "ContentPage",
-    "uid": "homepage"
+    "uid": "homepagefromhybris"
 }
