@@ -1,4 +1,5 @@
 const jsont = require('json-transforms');
+import _ from 'lodash'
 
 
 export const getPageTitleTransformed = (inputJson,modules) => {
@@ -19,7 +20,7 @@ export const getPageTitleTransformed = (inputJson,modules) => {
                         "enable_search_indexing": true
                     },
                     "tags": [],
-                    "title": d?.context?.page?.title || "Home Page From Hybris",
+                    "title": `${(d?.context?.page?.title || "Home Page")} From Hybris ${_.now()}`,
                     "updated_at": "2023-11-10T17:12:32.016Z",
                     "updated_by": "blt78fe312f4dcc2750",
                     "url": "/home-page-from-hybris"
