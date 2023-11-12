@@ -1,0 +1,461 @@
+{
+  "page": {
+    "uid": "homepage",
+    "uuid": "eyJpdGVtSWQiOiJob21lcGFnZSIsImNhdGFsb2dJZCI6ImNwcUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+    "title": "Homepage",
+    "template": "LandingPage2Template",
+    "typeCode": "ContentPage",
+    "name": "Homepage",
+    "robotTag": "INDEX_FOLLOW",
+    "contentSlots": {
+      "contentSlot": [
+        {
+          "slotId": "Section2ASlot-Homepage",
+          "slotUuid": "eyJpdGVtSWQiOiJTZWN0aW9uMkFTbG90LUhvbWVwYWdlIiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+          "position": "Section2A",
+          "name": "Section2A Slot for Homepage",
+          "slotShared": false,
+          "components": {
+            "component": [
+              {
+                "uid": "CpqHompagePowerDrillsBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlUG93ZXJEcmlsbHNCYW5uZXJDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJjcHFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.575Z",
+                "name": "Cpq Homepage Power Drills Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x290_PowerDrills_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Power Drills",
+                    "url": "/medias/Cpq-385x290-PowerDrills-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3wzOTcxMHxpbWFnZS9qcGVnfGFHRTNMMmd5Wmk4NE56azJNemcwT1RVeU16VXdMME53Y1Y4ek9EVjRNamt3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpNNE5WY3VhbkJufDE4NWNlNDc2NDdlZDU2YTYyYjUxMTg1NjNjYjkyYjliMGZhMGEwM2RkOWU4ZDRiMjgwNWRhYmFiZjMzMjYzMDE"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_PowerDrills_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Power Drills",
+                    "url": "/medias/Cpq-240x200-PowerDrills-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wyMTU5MXxpbWFnZS9qcGVnfGFETTJMMmhoTnk4NE56azJNemd6TlRRek16STJMME53Y1Y4eU5EQjRNakF3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpJME1GY3VhbkJufDZlZmExYjJhYmE2Mjc0Y2FmNDZiZDY2NjlkYmMyYWI5YTdkZDg4ZWJlMzQyYjNhZjRhZmI4YjdkODEyYmQ3NjY"
+                  },
+                  "mobile": {
+                    "code": "Cpq_320x260_PowerDrills_EN_01_320W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Power Drills",
+                    "url": "/medias/Cpq-320x260-PowerDrills-EN-01-320W.jpg?context=bWFzdGVyfGltYWdlc3wzMTY0NHxpbWFnZS9qcGVnfGFERXdMMmc1WkM4NE56azJNemd6T0RNNE1qTTRMME53Y1Y4ek1qQjRNall3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpNeU1GY3VhbkJufDc1MzVhYmNlMjllNzE0YjViYTM4MTE5NjE4MWI1N2IxYzUyMzg0Y2Q3OTJmMGYzMzg2ZTM4ZjQwMDk1NmNhN2Y"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x290_PowerDrills_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Power Drills",
+                    "url": "/medias/Cpq-350x290-PowerDrills-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wzNjY3MXxpbWFnZS9qcGVnfGFEQTFMMmcwTkM4NE56azJNemcwTXpZeU5USTJMME53Y1Y4ek5UQjRNamt3WDFCdmQyVnlSSEpwYkd4elgwVk9YekF4WHpNMU1GY3VhbkJufDdhMzljN2ZkM2I5MjI1NjFiY2ExMWY5YjJiYWEzNTVhNTgyM2U1MGM2NTJhMDFlMGRlZDUyYjRkZWI4ZDIxY2E"
+                  }
+                },
+                "urlLink": "/Open-Catalogue/Tools/Power-Drills/c/1360"
+              },
+              {
+                "uid": "CpqHompageAngleGrindersBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlQW5nbGVHcmluZGVyc0Jhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImNwcUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.625Z",
+                "name": "Cpq Homepage Angle Grinders Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x290_AngleGrinders_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Angle Grinders",
+                    "url": "/medias/Cpq-385x290-AngleGrinders-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3w1NjQ4MXxpbWFnZS9qcGVnfGFERXhMMmd6TUM4NE56azJNemcwT1RFNU5UZ3lMME53Y1Y4ek9EVjRNamt3WDBGdVoyeGxSM0pwYm1SbGNuTmZSVTVmTURGZk16ZzFWeTVxY0djfDc5NTNkMjU0YWEyMmE3MDQ4MGJmOWNjN2RmMGU0ODhkMDA4ZTI3YmQzMjcyYTEwODdiNzE2MGJhOGZiOTE4Y2Q"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_AngleGrinders_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Angle Grinders",
+                    "url": "/medias/Cpq-240x200-AngleGrinders-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wyNzYzMXxpbWFnZS9qcGVnfGFEbGxMMmhoWVM4NE56azJNemd6TkRRMU1ESXlMME53Y1Y4eU5EQjRNakF3WDBGdVoyeGxSM0pwYm1SbGNuTmZSVTVmTURGZk1qUXdWeTVxY0djfDdjODM2ZjFjODVmMGQwMWUzNDMxYTdmNTE2MDRlNDg0ODRiM2YxNzJlZjEyNGIwYmIyZmRiYjdiMWJmMGEyZGE"
+                  },
+                  "mobile": {
+                    "code": "Cpq_320x260_AngleGrinders_EN_01_320W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Angle Grinders",
+                    "url": "/medias/Cpq-320x260-AngleGrinders-EN-01-320W.jpg?context=bWFzdGVyfGltYWdlc3w0MzYyM3xpbWFnZS9qcGVnfGFHRTJMMmc1WXk4NE56azJNemd6T0RjeE1EQTJMME53Y1Y4ek1qQjRNall3WDBGdVoyeGxSM0pwYm1SbGNuTmZSVTVmTURGZk16SXdWeTVxY0djfDU5YzdhYzkzZTc0M2ZmNzU0NmFlNGQ2ODhlYTkxMGUwOGI1MzViN2Q1ZjZkYjVhNWRmZWViMmJmMjRjNWI3MmY"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x290_AngleGrinders_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Angle Grinders",
+                    "url": "/medias/Cpq-350x290-AngleGrinders-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3w1MTI2NHxpbWFnZS9qcGVnfGFEQTNMMmcwTVM4NE56azJNemcwTkRJNE1EWXlMME53Y1Y4ek5UQjRNamt3WDBGdVoyeGxSM0pwYm1SbGNuTmZSVTVmTURGZk16VXdWeTVxY0djfDhmNzUwNjdkYzM3NzI0ZjJjNDgxNmQ4OGZlNzZhNmY1MDI3MGRlZTA2ODUyYjlmNmZjZDQ2M2ViMDcxMjFiZGI"
+                  }
+                },
+                "urlLink": "/Open-Catalogue/Tools/Angle-Grinders/c/1595"
+              }
+            ]
+          }
+        },
+        {
+          "slotId": "Section1Slot-Homepage",
+          "slotUuid": "eyJpdGVtSWQiOiJTZWN0aW9uMVNsb3QtSG9tZXBhZ2UiLCJjYXRhbG9nSWQiOiJjcHFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+          "position": "Section1",
+          "name": "Section1 Slot for Homepage",
+          "slotShared": false,
+          "components": {
+            "component": [
+              {
+                "uid": "CpqHompageSplashBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlU3BsYXNoQmFubmVyQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.734Z",
+                "name": "Cpq Homepage Splash Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_770x350_BigSplash_EN_01_770W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "The Most Powerful Tools in their Price Range",
+                    "url": "/medias/Cpq-770x350-BigSplash-EN-01-770W.jpg?context=bWFzdGVyfGltYWdlc3w3MjQ5OHxpbWFnZS9qcGVnfGFHUXlMMmd5TVM4NE56azJNemcxTWpFME5EazBMME53Y1Y4M056QjRNelV3WDBKcFoxTndiR0Z6YUY5RlRsOHdNVjgzTnpCWExtcHdad3xhMTVjZDhiMjA0NmJiNGU3MGJkYzdlNGIxYmY4MzExMjM3YzU5N2FiZGJhNjZiODVhM2EwODY0M2MyNmJkZWM1"
+                  },
+                  "desktop": {
+                    "code": "Cpq_960x400_BigSplash_EN_01_960W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "The Most Powerful Tools in their Price Range",
+                    "url": "/medias/Cpq-960x400-BigSplash-EN-01-960W.jpg?context=bWFzdGVyfGltYWdlc3w5NDA0OXxpbWFnZS9qcGVnfGFEa3pMMmd5TWk4NE56azJNemcxTWpnd01ETXdMME53Y1Y4NU5qQjROREF3WDBKcFoxTndiR0Z6YUY5RlRsOHdNVjg1TmpCWExtcHdad3w0YTE2OTdkMWU2NDZjZDZiYzIwYjZiMWU4NjBlNWVjMzYxODlhNzdlMjFkNDM0Y2I3YmI5MjI2MTA4MDc4NmMz"
+                  },
+                  "mobile": {
+                    "code": "Cpq_320x300_BigSplash_EN_01_320W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "The Most Powerful Tools in their Price Range",
+                    "url": "/medias/Cpq-320x300-BigSplash-EN-01-320W.jpg?context=bWFzdGVyfGltYWdlc3wyODM0N3xpbWFnZS9qcGVnfGFEZ3pMMmcwWWk4NE56azJNemcwTVRBd016Z3lMME53Y1Y4ek1qQjRNekF3WDBKcFoxTndiR0Z6YUY5RlRsOHdNVjh6TWpCWExtcHdad3xkNzIzMmYyMTdkNGRkNDY4ZWM3NTg1NzI0YmFlMzBhMWI3NjFjMWY1YTIyNTdiNDc2NjQ5ZjdlNzRkNjA0NmQ3"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_1400x480_BigSplash_EN_01_1400W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "The Most Powerful Tools in their Price Range",
+                    "url": "/medias/Cpq-1400x480-BigSplash-EN-01-1400W.jpg?context=bWFzdGVyfGltYWdlc3wxMDI0ODV8aW1hZ2UvanBlZ3xhR013TDJobVl5ODROemsyTXpneU9UVXpOVEF5TDBOd2NWOHhOREF3ZURRNE1GOUNhV2RUY0d4aGMyaGZSVTVmTURGZk1UUXdNRmN1YW5CbnwwMjUyMjA5NWYwZTllMGYzMWU3MWMyNTY2MTgwZmU1MjUyMDY1Y2M0NTc3NzQwMWM4ZTdmN2YyNmNiYjNkNmMx"
+                  }
+                },
+                "urlLink": "/Open-Catalogue/Tools/c/1355"
+              },
+              {
+                "uid": "CpqHompageBrandsBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlQnJhbmRzQmFubmVyQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.783Z",
+                "name": "Cpq Homepage Brands Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_770x70_Brands_EN_01_770W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Bosch | Black &amp; Decker | Einhall | Skil | Hitachi",
+                    "url": "/medias/Cpq-770x70-Brands-EN-01-770W.jpg?context=bWFzdGVyfGltYWdlc3wxMTAyMnxpbWFnZS9qcGVnfGFESTVMMmd5TWk4NE56azJNemcxTWpRM01qWXlMME53Y1Y4M056QjROekJmUW5KaGJtUnpYMFZPWHpBeFh6YzNNRmN1YW5CbnxkZGQwMmYzOTdkNWU1YjcxMTBkZGNjY2EyODc0M2E2NjYzMTM2ZmM0MzA0MWQ0NjA0MWEyMDQ4MjVkYmVlNjRl"
+                  },
+                  "desktop": {
+                    "code": "Cpq_960x70_Brands_EN_01_960W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Bosch | Black &amp; Decker | Einhall | Skil | Hitachi",
+                    "url": "/medias/Cpq-960x70-Brands-EN-01-960W.jpg?context=bWFzdGVyfGltYWdlc3wxMjM2OHxpbWFnZS9qcGVnfGFEa3hMMmd5TlM4NE56azJNemcxTXpRMU5UWTJMME53Y1Y4NU5qQjROekJmUW5KaGJtUnpYMFZPWHpBeFh6azJNRmN1YW5Cbnw5YjU4Y2UyZGVjZGUxOWI4YTI0NDQzOTA3MGU0MDFhOWFhYzNhNGE3ZWI3YTcxNGNlOGM3NTI5OGFiMDBmZTM2"
+                  },
+                  "mobile": {
+                    "code": "Cpq_320x100_Brands_EN_01_320W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Bosch | Black &amp; Decker | Einhall | Skil | Hitachi",
+                    "url": "/medias/Cpq-320x100-Brands-EN-01-320W.jpg?context=bWFzdGVyfGltYWdlc3w3MjYwfGltYWdlL2pwZWd8YUdObUwyaGhNQzg0TnprMk16Z3pOekEzTVRZMkwwTndjVjh6TWpCNE1UQXdYMEp5WVc1a2MxOUZUbDh3TVY4ek1qQlhMbXB3Wnd8OWZhZTg0NjNmZmIxMDRiMjNhMTJhMGMzNWExODAyYjJmNTlkYjZmYjBiZjA5MTAwNzRlZDI4ZTRkODIxMDM5NA"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_1400x70_Brands_EN_01_1400W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Bosch | Black &amp; Decker | Einhall | Skil | Hitachi",
+                    "url": "/medias/Cpq-1400x70-Brands-EN-01-1400W.jpg?context=bWFzdGVyfGltYWdlc3wyMjc2OHxpbWFnZS9qcGVnfGFHRm1MMmhtT1M4NE56azJNemd5T0RnM09UWTJMME53Y1Y4eE5EQXdlRGN3WDBKeVlXNWtjMTlGVGw4d01WOHhOREF3Vnk1cWNHY3xkMWRhYjY0MjkzMWM1MTc5ZTBlNzU2YmY3YjFlMmIxNWFjNWYxOGU5NWZmYjU0OTk2ZmUwNTJkZDAyN2ViYmQ4"
+                  }
+                },
+                "urlLink": "/Brands/c/brands"
+              }
+            ]
+          }
+        },
+        {
+          "slotId": "Section2BSlot-Homepage",
+          "slotUuid": "eyJpdGVtSWQiOiJTZWN0aW9uMkJTbG90LUhvbWVwYWdlIiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+          "position": "Section2B",
+          "name": "Section2B Slot for Homepage",
+          "slotShared": false,
+          "components": {
+            "component": [
+              {
+                "uid": "CpqHompageScrewdriversBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlU2NyZXdkcml2ZXJzQmFubmVyQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.768Z",
+                "name": "Cpq Homepage Screwdrivers Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x290_Screwdrivers_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Screwdrivers",
+                    "url": "/medias/Cpq-385x290-Screwdrivers-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3wzODUwMnxpbWFnZS9qcGVnfGFESmlMMmd4Wmk4NE56azJNemcxTVRneE56STJMME53Y1Y4ek9EVjRNamt3WDFOamNtVjNaSEpwZG1WeWMxOUZUbDh3TVY4ek9EVlhMbXB3Wnd8NmJlNmE1ZmRlZjYzZGZiOTQ0NzA1NWE3ZTJhZjQyYzczMTY2ZDlkZTdhNGEwNThhNTM4N2Q0ZDY4NGJkNTc4NA"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_Screwdrivers_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Screwdrivers",
+                    "url": "/medias/Cpq-240x200-Screwdrivers-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wxOTEwNnxpbWFnZS9qcGVnfGFHTmxMMmhoTXk4NE56azJNemd6TmpReE5qTXdMME53Y1Y4eU5EQjRNakF3WDFOamNtVjNaSEpwZG1WeWMxOUZUbDh3TVY4eU5EQlhMbXB3Wnd8MDgxNDExNjI2OWUzMDI3M2UxNjc1NzQzNDc1N2Q2Njg5YjMzNTQ1NmZiZGY0NTMzNTBkMzNiMDZjMmJhODg5Zg"
+                  },
+                  "mobile": {
+                    "code": "Cpq_320x260_Screwdrivers_EN_01_320W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Screwdrivers",
+                    "url": "/medias/Cpq-320x260-Screwdrivers-EN-01-320W.jpg?context=bWFzdGVyfGltYWdlc3wyOTQ3NHxpbWFnZS9qcGVnfGFEVXhMMmc1T1M4NE56azJNemd6T1RZNU16RXdMME53Y1Y4ek1qQjRNall3WDFOamNtVjNaSEpwZG1WeWMxOUZUbDh3TVY4ek1qQlhMbXB3Wnd8M2FkOWNhNGRiYWZkODQxYWU1YmZkNDU0MjE4NmRjOGNiZmI3YTZmNDhjZDI0OTcyMGEwZDk2ZDZmYWYyNTljMQ"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x290_Screwdrivers_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Screwdrivers",
+                    "url": "/medias/Cpq-350x290-Screwdrivers-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wzNTE5M3xpbWFnZS9qcGVnfGFEYzFMMmd6T1M4NE56azJNemcwTmprd01qQTJMME53Y1Y4ek5UQjRNamt3WDFOamNtVjNaSEpwZG1WeWMxOUZUbDh3TVY4ek5UQlhMbXB3Wnd8ZDIxOTI0M2ZiNmNiNTU1NTAwOGFkMTA0OWUwYzJlYzBhMjZiMzQ2NWQzZmRkYjNiMjEyZDA3YzkwNGRjNTljNA"
+                  }
+                },
+                "urlLink": "/Open-Catalogue/Tools/Screwdrivers/c/1593"
+              },
+              {
+                "uid": "CpqHompageSandersBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlU2FuZGVyc0Jhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImNwcUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.815Z",
+                "name": "Cpq Homepage Sanders Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x290_Sanders_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Sanders",
+                    "url": "/medias/Cpq-385x290-Sanders-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3wzMzI2MXxpbWFnZS9qcGVnfGFEQXhMMmd4WWk4NE56azJNemcxTURFM09EZzJMME53Y1Y4ek9EVjRNamt3WDFOaGJtUmxjbk5mUlU1Zk1ERmZNemcxVnk1cWNHY3wxOWM0NTE5MDY3YjM4NzlmZjNjYThiNzQ4YjAxM2ZkNWMyZmZhYmYwNmU2Mzk4ZjYyMTRhZjk3MWNiNWY3MDc2"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_Sanders_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Sanders",
+                    "url": "/medias/Cpq-240x200-Sanders-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3wxNjYwOXxpbWFnZS9qcGVnfGFHUmxMMmhoTmk4NE56azJNemd6TlRjMk1EazBMME53Y1Y4eU5EQjRNakF3WDFOaGJtUmxjbk5mUlU1Zk1ERmZNalF3Vnk1cWNHY3xjYjM0NjVlYThjYTE5YmQ3NTFmOTQ0ZjliZDc1ZGY2OWU2MjQ3OTdhZWE2MjkzMzFjOTAxZWVmNWU4ZmEzOWI2"
+                  },
+                  "mobile": {
+                    "code": "Cpq_320x260_Sanders_EN_01_320W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Sanders",
+                    "url": "/medias/Cpq-320x260-Sanders-EN-01-320W.jpg?context=bWFzdGVyfGltYWdlc3wyNTcxMHxpbWFnZS9qcGVnfGFHWm1MMmc1T1M4NE56azJNemd6T1RBek56YzBMME53Y1Y4ek1qQjRNall3WDFOaGJtUmxjbk5mUlU1Zk1ERmZNekl3Vnk1cWNHY3w2YzM2ZWEzOGE4YWNiOTMxYmNiZmUwMzg0NmQyMjc4MmUxNmNlOTA4YzBmMmE3ZTJhYjYyMjRiOTM2M2Y0NDgy"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x290_Sanders_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "Sanders",
+                    "url": "/medias/Cpq-350x290-Sanders-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wzMTQ3MnxpbWFnZS9qcGVnfGFEUTJMMmcwTUM4NE56azJNemcwTkRrek5UazRMME53Y1Y4ek5UQjRNamt3WDFOaGJtUmxjbk5mUlU1Zk1ERmZNelV3Vnk1cWNHY3w1Mzc0NTk4ZDFlNWZmNzk0MjA0ZjJiMmIzODkxOTJmMjUzNzllODMxOGYxMGRiMTgzMmZhZTU0YzkwODcwNTNl"
+                  }
+                },
+                "urlLink": "/Open-Catalogue/Tools/Sanders/c/1596"
+              }
+            ]
+          }
+        },
+        {
+          "slotId": "Section3Slot-Homepage",
+          "slotUuid": "eyJpdGVtSWQiOiJTZWN0aW9uM1Nsb3QtSG9tZXBhZ2UiLCJjYXRhbG9nSWQiOiJjcHFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+          "position": "Section3",
+          "name": "Section3 Slot for Homepage",
+          "slotShared": false,
+          "components": {
+            "component": [
+              {
+                "uid": "CpqHomepageNewProductCarouselComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21lcGFnZU5ld1Byb2R1Y3RDYXJvdXNlbENvbXBvbmVudCIsImNhdGFsb2dJZCI6ImNwcUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                "typeCode": "ProductCarouselComponent",
+                "modifiedtime": "2023-10-03T23:03:18.246Z",
+                "name": "What's New Cpq Homepage Product Carousel",
+                "container": false,
+                "popup": false,
+                "synchronizationBlocked": false,
+                "scroll": "ALLVISIBLE",
+                "productCodes": "3755219 3881018 3592865 2116279 3755204 1128762 3092788",
+                "title": "WHAT'S NEW"
+              },
+              {
+                "uid": "CpqHomepageProductCarouselComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21lcGFnZVByb2R1Y3RDYXJvdXNlbENvbXBvbmVudCIsImNhdGFsb2dJZCI6ImNwcUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                "typeCode": "ProductCarouselComponent",
+                "modifiedtime": "2023-10-03T23:03:18.336Z",
+                "name": "Cpq Homepage Product Carousel",
+                "container": false,
+                "popup": false,
+                "synchronizationBlocked": false,
+                "scroll": "ALLVISIBLE",
+                "productCodes": "3755205 3755211 3756505 3793682 2221933 2116275 2116282",
+                "title": "Our Bestselling Products"
+              }
+            ]
+          }
+        },
+        {
+          "slotId": "Section5Slot-Homepage",
+          "slotUuid": "eyJpdGVtSWQiOiJTZWN0aW9uNVNsb3QtSG9tZXBhZ2UiLCJjYXRhbG9nSWQiOiJjcHFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+          "position": "Section5",
+          "name": "ContentSlot",
+          "slotShared": false,
+          "components": ""
+        },
+        {
+          "slotId": "Section4Slot-Homepage",
+          "slotUuid": "eyJpdGVtSWQiOiJTZWN0aW9uNFNsb3QtSG9tZXBhZ2UiLCJjYXRhbG9nSWQiOiJjcHFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+          "position": "Section4",
+          "name": "Section4 Slot for Homepage",
+          "slotShared": false,
+          "components": {
+            "component": [
+              {
+                "uid": "CpqHompage25%BannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlMjUlQmFubmVyQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.787Z",
+                "name": "Cpq Homepage 25% Great Deal Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x280_25Deal_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "25% Great Prices and Great Deals",
+                    "url": "/medias/Cpq-385x280-25Deal-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3w5MjAwfGltYWdlL2pwZWd8YUdVd0wyZ3pPUzg0TnprMk16ZzBOalUzTkRNNEwwTndjVjh6T0RWNE1qZ3dYekkxUkdWaGJGOUZUbDh3TVY4ek9EVlhMbXB3Wnd8ODM3MzA0OTllNzBiM2Q5YTIyOGI5ODViZGQwZWRmN2E4ZDRlZDcyYTMyNDU3ZmQwYTk1OTFkYjQ0ZGVkNDIzYg"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_25Deal_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "25% Great Prices and Great Deals",
+                    "url": "/medias/Cpq-240x200-25Deal-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w1OTk4fGltYWdlL2pwZWd8YURBMEwyaGlNUzg0TnprMk16Z3pNamd4TVRneUwwTndjVjh5TkRCNE1qQXdYekkxUkdWaGJGOUZUbDh3TVY4eU5EQlhMbXB3Wnd8MTBlYjU0OTRmMTc1MzQ1M2VmZmI0N2Q5ZjRhOGJmZmIyOWIzNzUzNWFmN2E0ZDVmYWNkMjYwMjI1MGRkNTJmMg"
+                  },
+                  "mobile": {
+                    "code": "Cpq_160x139_25Deal_EN_01_160W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "25% Great Prices and Great Deals",
+                    "url": "/medias/Cpq-160x139-25Deal-EN-01-160W.jpg?context=bWFzdGVyfGltYWdlc3w0MDQ0fGltYWdlL2pwZWd8YURZNUwyaG1ZeTg0TnprMk16Z3lPVEl3TnpNMEwwTndjVjh4TmpCNE1UTTVYekkxUkdWaGJGOUZUbDh3TVY4eE5qQlhMbXB3Wnd8NWIyYzRlYTIyOTM0MmY5N2Q0NGU2YmYxNDdiMGUxOWZmNGI3MmE4NGRjNzJiZDA0ZmU5Y2I1MzFiMjdlMTgxZQ"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x280_25Deal_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "25% Great Prices and Great Deals",
+                    "url": "/medias/Cpq-350x280-25Deal-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3w5MDEwfGltYWdlL2pwZWd8YUdRMkwyZzBZUzg0TnprMk16ZzBNVFkxT1RFNEwwTndjVjh6TlRCNE1qZ3dYekkxUkdWaGJGOUZUbDh3TVY4ek5UQlhMbXB3Wnd8OWU3NDIwNDdkZjI2OWYyMTdhMzcyMjI3MzdmN2U1MjdkNDAyMWZmY2M3OWIzNTc3MWRlN2UzNjNhZDdiMDBjYg"
+                  }
+                }
+              },
+              {
+                "uid": "CpqHompage30dayBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlMzBkYXlCYW5uZXJDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJjcHFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.838Z",
+                "name": "Cpq Homepage 30 Day Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x280_30Day_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "30 Day - Shop with Confidence",
+                    "url": "/medias/Cpq-385x280-30Day-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3wxMTI3OHxpbWFnZS9qcGVnfGFEYzRMMmd6Tmk4NE56azJNemcwTnpVMU56UXlMME53Y1Y4ek9EVjRNamd3WHpNd1JHRjVYMFZPWHpBeFh6TTROVmN1YW5Cbnw5YzI4Nzk0MDI5NjgzNzU3NmQzZDU4OGMyNzQwMTc2ZmM2NmU0YzM2ZDg0ODcwZDU5NjEzZmU0MGMyYzI3MjZj"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_30Day_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "30 Day - Shop with Confidence",
+                    "url": "/medias/Cpq-240x200-30Day-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w3NDE0fGltYWdlL2pwZWd8YURWa0wyaGhaUzg0TnprMk16Z3pNekV6T1RVd0wwTndjVjh5TkRCNE1qQXdYek13UkdGNVgwVk9YekF4WHpJME1GY3VhbkJufDlkZTM0Y2YzZjQ1YjU5MGZjOGNkM2IwZGJhZWQyNzdmNzhhYTg3NGQwMjMwMzQzNzY3OWE0ZjdjN2M5OWExNTQ"
+                  },
+                  "mobile": {
+                    "code": "Cpq_160x139_30Day_EN_01_160W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "30 Day - Shop with Confidence",
+                    "url": "/medias/Cpq-160x139-30Day-EN-01-160W.jpg?context=bWFzdGVyfGltYWdlc3w0OTQwfGltYWdlL2pwZWd8YURKakwyaGlPQzg0TnprMk16Z3pNRFV4T0RBMkwwTndjVjh4TmpCNE1UTTVYek13UkdGNVgwVk9YekF4WHpFMk1GY3VhbkJufGQ3OGRkYmM1NDdjZWFlM2EyOGQ5MmEzOWI5MjA0MTUyZjVkNDc2Y2M1NzkzNTUxZDhhZDgxMjQzYTRlY2Q0MjE"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x280_30Day_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "30 Day - Shop with Confidence",
+                    "url": "/medias/Cpq-350x280-30Day-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3wxMTE0MXxpbWFnZS9qcGVnfGFHTTBMMmcwTnk4NE56azJNemcwTWpNeE5EVTBMME53Y1Y4ek5UQjRNamd3WHpNd1JHRjVYMFZPWHpBeFh6TTFNRmN1YW5CbnxjYzI2ZGFiODFkMmYxYzI0YjAxZDI2ZjY4ZmNmYzlhNzFlOWI4N2I2N2Y0YTVlYjhkODQzMjJhM2EwYjM1MGVh"
+                  }
+                }
+              },
+              {
+                "uid": "CpqHompage6pmBannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlNnBtQmFubmVyQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiY3BxQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:18.894Z",
+                "name": "Cpq Homepage 6pm Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x280_6pm_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "6pm - Order by 6pm for Same Day Shipping",
+                    "url": "/medias/Cpq-385x280-6pm-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3w4NzE5fGltYWdlL2pwZWd8YUdJNUwyZ3pNaTg0TnprMk16ZzBPRGcyT0RFMEwwTndjVjh6T0RWNE1qZ3dYelp3YlY5RlRsOHdNVjh6T0RWWExtcHdad3w0ODMxOTNiZDMwZTUyYjUwMDBiOTQ2OWFjZDhlMWIxZDU4ZWZhYzE4NzQ1OWM0ODhlMjEyZTYzYmZjNGM3ZTIw"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_6pm_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "6pm - Order by 6pm for Same Day Shipping",
+                    "url": "/medias/Cpq-240x200-6pm-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w1NDM0fGltYWdlL2pwZWd8YUdGbUwyaGhaQzg0TnprMk16Z3pNemM1TkRnMkwwTndjVjh5TkRCNE1qQXdYelp3YlY5RlRsOHdNVjh5TkRCWExtcHdad3w3NDAyOGNhMDQ5MmQ3M2VkMzkwNmZmMDQzMjdmMjA3NzA0MzcyZDAwNzhhYjliZWFmYTIxOThlZTk2Yjc5ZDUz"
+                  },
+                  "mobile": {
+                    "code": "Cpq_160x139_6pm_EN_01_160W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "6pm - Order by 6pm for Same Day Shipping",
+                    "url": "/medias/Cpq-160x139-6pm-EN-01-160W.jpg?context=bWFzdGVyfGltYWdlc3wzOTUyfGltYWdlL2pwZWd8YURKa0wyaGlOUzg0TnprMk16Z3pNVEUzTXpReUwwTndjVjh4TmpCNE1UTTVYelp3YlY5RlRsOHdNVjh4TmpCWExtcHdad3xmODU4NWIwMzY2MGZhZTQ1OGU3NTg4OTAzYjU2MGY5YjBlMTBjNmQ1ZWFhYjI1MGEzZWM5MjVjMmZkMjkzNTQ0"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x280_6pm_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "6pm - Order by 6pm for Same Day Shipping",
+                    "url": "/medias/Cpq-350x280-6pm-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3w4NDk5fGltYWdlL2pwZWd8YUdGbEwyZzBNeTg0TnprMk16ZzBNemsxTWprMEwwTndjVjh6TlRCNE1qZ3dYelp3YlY5RlRsOHdNVjh6TlRCWExtcHdad3xlOGY5ZDQwZjA1MTBhZjhiYWFkM2JkNDQ2NjdjMmNjNTgxMDcyZWVmMzcxZTY1NGVhMTY1MDVmNTcxNjZmODJi"
+                  }
+                }
+              },
+              {
+                "uid": "CpqHompage24/7BannerComponent",
+                "uuid": "eyJpdGVtSWQiOiJDcHFIb21wYWdlMjQvN0Jhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImNwcUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                "typeCode": "SimpleResponsiveBannerComponent",
+                "modifiedtime": "2023-10-03T23:03:19.374Z",
+                "name": "Cpq Homepage 24/7 Banner Component",
+                "container": false,
+                "synchronizationBlocked": false,
+                "media": {
+                  "tablet": {
+                    "code": "Cpq_385x280_24Service_EN_01_385W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "24/7 - Great Service After You Buy",
+                    "url": "/medias/Cpq-385x280-24Service-EN-01-385W.jpg?context=bWFzdGVyfGltYWdlc3w4MzI1fGltYWdlL2pwZWd8YURNM0wyZ3pZUzg0TnprMk16ZzBOakkwTmpjd0wwTndjVjh6T0RWNE1qZ3dYekkwVTJWeWRtbGpaVjlGVGw4d01WOHpPRFZYTG1wd1p3fDdhODQ4OTc1ZTliMjI3YTIzNTA1MWQzY2Y4Y2E5ZGMwNGE5MDhjNTQ0MmE1ODlhOThhOWNmYTEzNjlkMmM2ZTY"
+                  },
+                  "desktop": {
+                    "code": "Cpq_240x200_24Service_EN_01_240W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "24/7 - Great Service After You Buy",
+                    "url": "/medias/Cpq-240x200-24Service-EN-01-240W.jpg?context=bWFzdGVyfGltYWdlc3w1NTQyfGltYWdlL2pwZWd8YURaakwyaGlOQzg0TnprMk16Z3pNVGd5T0RjNEwwTndjVjh5TkRCNE1qQXdYekkwVTJWeWRtbGpaVjlGVGw4d01WOHlOREJYTG1wd1p3fGQyZDUyMzg2ZWNlZWI5NGZjNTE0Y2ZiNDc0YzViZWZjZDY1Y2VhZGE0NWQyMDk3ZmZmYWIzN2Y2NDVlYWEzNDI"
+                  },
+                  "mobile": {
+                    "code": "Cpq_160x139_24Service_EN_01_160W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "24/7 - Great Service After You Buy",
+                    "url": "/medias/Cpq-160x139-24Service-EN-01-160W.jpg?context=bWFzdGVyfGltYWdlc3wzODA2fGltYWdlL2pwZWd8YURFM0wyaG1aQzg0TnprMk16Z3lPVGcyTWpjd0wwTndjVjh4TmpCNE1UTTVYekkwVTJWeWRtbGpaVjlGVGw4d01WOHhOakJYTG1wd1p3fGY5MTExOWVmNTE3ODI1YzJhNWYwMmU2ODJjNjAwNjdlY2QyMDM4YmZiNjhiMmZjZmZlMjZjOWU2ZDI4ZGM3ZmY"
+                  },
+                  "widescreen": {
+                    "code": "Cpq_350x280_24Service_EN_01_350W.jpg",
+                    "mime": "image/jpeg",
+                    "altText": "24/7 - Great Service After You Buy",
+                    "url": "/medias/Cpq-350x280-24Service-EN-01-350W.jpg?context=bWFzdGVyfGltYWdlc3w4MTcwfGltYWdlL2pwZWd8YURKakwyZzBZaTg0TnprMk16ZzBNVE16TVRVd0wwTndjVjh6TlRCNE1qZ3dYekkwVTJWeWRtbGpaVjlGVGw4d01WOHpOVEJYTG1wd1p3fDI3MjMzYWJjN2ZlMzhhMWI0YmZiMmRiMjg3Mzg1N2U2YWMzYWI1ODdjYjY1NGFiZTM0MTc3NTQ2MTMwNDBlNWQ"
+                  }
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "label": "homepage"
+  }
+}
