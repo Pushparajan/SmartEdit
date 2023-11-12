@@ -8,7 +8,6 @@ export const getPageTitleTransformed = (inputJson,modules) => {
                 return {
                     "_version": 21,
                     "locale": "en-us",
-                    "uid": d?.context?.page.uid || "bltc16482c4c5674708",
                     "_in_progress": false,
                     "created_at": "2023-11-10T16:33:15.561Z",
                     "created_by": "blt78fe312f4dcc2750",
@@ -40,7 +39,6 @@ export const getSectionHeadingTransform = (eachSection) => {
                     "section_heading": {
                         "heading": `<span>${d?.context?.name || "Section1 Slot for Homepage"}</span>`,
                         "_metadata": {
-                            "uid": "cs5b23479b93ca47b9",
                             "slotId": d?.context?.slotId
                         },
                         "content": "",
@@ -61,58 +59,18 @@ export const getFullWidthTransform = (fullWidthComponent) => {
                 return {
                     "full_width_banner": {
                         "variation": "block-floating",
-                        "banner_desktop_image": {
-                            "uid": d?.context?.uid || "bltde0a770474ceaa68",
-                            "created_at": "2023-11-10T16:30:44.163Z",
-                            "updated_at": "2023-11-10T16:30:44.163Z",
-                            "created_by": "blt78fe312f4dcc2750",
-                            "updated_by": "blt78fe312f4dcc2750",
-                            "content_type": d?.context?.media?.desktop?.mime || "image/jpeg",
-                            "file_size": "490823",
-                            "tags": [],
-                            "filename": d?.context?.media?.desktop?.code || "0-5000x3333.jpg",
-                            "url": d?.context?.media?.desktop?.url || "https://images.contentstack.io/v3/assets/blt00fb8bca61a5c45c/bltde0a770474ceaa68/654e5ab49ca24ae9dd329bbb/0-5000x3333.jpg",
-                            "ACL": [],
-                            "is_dir": false,
-                            "parent_uid": "blt0652e56030f27055",
-                            "_version": 1,
+                        "banner_desktop_image_url": {
+                            "href": d?.context?.media?.desktop?.url || "https://images.contentstack.io/v3/assets/blt00fb8bca61a5c45c/bltde0a770474ceaa68/654e5ab49ca24ae9dd329bbb/0-5000x3333.jpg",
                             "title": d?.context?.media?.desktop?.altText || "0-5000x3333.jpg"
                         },
                         "_metadata": {
-                            "uid": d?.context?.uid || "cs4053fb15ec68949a",
                         },
-                        "banner_tablet_image": {
-                            "uid": d?.context?.uid || "bltde0a770474ceaa68",
-                            "created_at": "2023-11-10T16:30:44.163Z",
-                            "updated_at": "2023-11-10T16:30:44.163Z",
-                            "created_by": "blt78fe312f4dcc2750",
-                            "updated_by": "blt78fe312f4dcc2750",
-                            "content_type": d?.context?.media?.tablet?.mime || "image/jpeg",
-                            "file_size": "490823",
-                            "tags": [],
-                            "filename": d?.context?.media?.tablet?.code || "0-5000x3333.jpg",
-                            "url": d?.context?.media?.tablet?.url || "https://images.contentstack.io/v3/assets/blt00fb8bca61a5c45c/bltde0a770474ceaa68/654e5ab49ca24ae9dd329bbb/0-5000x3333.jpg",
-                            "ACL": [],
-                            "is_dir": false,
-                            "parent_uid": "blt0652e56030f27055",
-                            "_version": 1,
+                        "banner_tablet_image_url": {
+                            "href": d?.context?.media?.tablet?.url || "https://images.contentstack.io/v3/assets/blt00fb8bca61a5c45c/bltde0a770474ceaa68/654e5ab49ca24ae9dd329bbb/0-5000x3333.jpg",
                             "title": d?.context?.media?.tablet?.altText || "0-5000x3333.jpg"
                         },
-                        "banner_smartphone_image": {
-                            "uid": d?.context?.uid || "bltde0a770474ceaa68",
-                            "created_at": "2023-11-10T16:30:44.163Z",
-                            "updated_at": "2023-11-10T16:30:44.163Z",
-                            "created_by": "blt78fe312f4dcc2750",
-                            "updated_by": "blt78fe312f4dcc2750",
-                            "content_type": d?.context?.media?.mobile?.mime || "image/jpeg",
-                            "file_size": "490823",
-                            "tags": [],
-                            "filename": d?.context?.media?.mobile?.code || "0-5000x3333.jpg",
-                            "url": d?.context?.media?.mobile?.url || "https://images.contentstack.io/v3/assets/blt00fb8bca61a5c45c/bltde0a770474ceaa68/654e5ab49ca24ae9dd329bbb/0-5000x3333.jpg",
-                            "ACL": [],
-                            "is_dir": false,
-                            "parent_uid": "blt0652e56030f27055",
-                            "_version": 1,
+                        "banner_smartphone_image_url": {
+                            "href": d?.context?.media?.mobile?.url || "https://images.contentstack.io/v3/assets/blt00fb8bca61a5c45c/bltde0a770474ceaa68/654e5ab49ca24ae9dd329bbb/0-5000x3333.jpg",
                             "title": d?.context?.media?.mobile?.altText || "0-5000x3333.jpg"
                         },
                         "image_height": 360,
@@ -158,7 +116,6 @@ export const getProductIdsTransform = (productIds) => {
                 return {
                     "product_id": d?.context,
                     "_metadata": {
-                        "uid": d?.context
                     }
                 }
             }
@@ -177,7 +134,6 @@ export const getProductCarasolTransform = (productCaroselComponent) => {
                     "product_carousel": {
                         "heading": `<span>${d?.context?.name || "Product Carousel"}</span>`,
                         "_metadata": {
-                            "uid": d?.context?.uid || "cs38c519d0ff880a7a"
                         },
                         "description": "",
                         "product_picker_sample": productIds?.data,
