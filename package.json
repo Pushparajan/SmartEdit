@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.14.201",
+    "dotenv": "^16.3.1",
     "fs": "^0.0.1-security",
     "json-transforms": "^1.1.2",
     "lodash": "^4.17.21",
